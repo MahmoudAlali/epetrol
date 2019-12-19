@@ -1,0 +1,41 @@
+[
+{"type":"header","version":"4.7.7","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"epetrol"},
+{"type":"table","name":"academicnews","database":"epetrol","data":
+[
+{"id":"28","amount":"30","smart_card_id":"13","last_bill_date":"2019-12-16","isfreepetrol":null},
+{"id":"27","amount":"20","smart_card_id":"13","last_bill_date":"2019-12-16","isfreepetrol":null},
+{"id":"16","amount":"40","smart_card_id":"4","last_bill_date":"2019-12-14","isfreepetrol":null},
+{"id":"15","amount":"40","smart_card_id":"9","last_bill_date":"2019-12-14","isfreepetrol":null},
+{"id":"18","amount":"10","smart_card_id":"7","last_bill_date":"2019-12-14","isfreepetrol":null},
+{"id":"19","amount":"30","smart_card_id":"7","last_bill_date":"2019-12-14","isfreepetrol":null},
+{"id":"22","amount":"20","smart_card_id":"12","last_bill_date":"2019-12-14","isfreepetrol":null},
+{"id":"23","amount":"30","smart_card_id":"13","last_bill_date":"2019-12-14","isfreepetrol":null},
+{"id":"24","amount":"10","smart_card_id":"13","last_bill_date":"2019-12-14","isfreepetrol":null},
+{"id":"25","amount":"40","smart_card_id":"15","last_bill_date":"2019-12-16","isfreepetrol":null},
+{"id":"26","amount":"40","smart_card_id":"17","last_bill_date":"2019-12-16","isfreepetrol":null},
+{"id":"29","amount":"30","smart_card_id":"13","last_bill_date":"2019-12-16","isfreepetrol":"ksjdn0"},
+{"id":"30","amount":"10","smart_card_id":"13","last_bill_date":"2019-12-16","isfreepetrol":"false"},
+{"id":"31","amount":"30","smart_card_id":"13","last_bill_date":"2019-12-16","isfreepetrol":"true"},
+{"id":"32","amount":"10","smart_card_id":"13","last_bill_date":"2019-12-16","isfreepetrol":"true"}
+]
+}
+,{"type":"table","name":"users","database":"epetrol","data":
+[
+{"smart_card_id":"7","name":"mahmoud","mobile_num":"84848","natural_num":"848454","residence":"gwfwgw","address":"aghaha","photos":"","vehicle_number":"8464646"},
+{"smart_card_id":"4","name":"mahmoud","mobile_num":"119","natural_num":"119","residence":"daraa","address":"daraa","photos":"","vehicle_number":"98127398"},
+{"smart_card_id":"5","name":"mahmoud","mobile_num":"119","natural_num":"119","residence":"daraa","address":"daraa","photos":"","vehicle_number":"98127398"},
+{"smart_card_id":"6","name":"mahmoud","mobile_num":"119","natural_num":"119","residence":"daraa","address":"daraa","photos":"","vehicle_number":"98127398"},
+{"smart_card_id":"8","name":"mahmoud1","mobile_num":"84848","natural_num":"848454","residence":"gwfwgw","address":"aghaha","photos":"","vehicle_number":"84646466666"},
+{"smart_card_id":"9","name":"mmm","mobile_num":"6666","natural_num":"55555","residence":"ffffg","address":"gggg","photos":"","vehicle_number":"696666"},
+{"smart_card_id":"10","name":"Mahmoud","mobile_num":"55","natural_num":"18184848","residence":"daraa","address":"daraa","photos":"","vehicle_number":"6464646"},
+{"smart_card_id":"11","name":"mmm","mobile_num":"500","natural_num":"500","residence":"daras","address":"daraa","photos":"","vehicle_number":"5555"},
+{"smart_card_id":"12","name":"555","mobile_num":"500","natural_num":"500","residence":"da","address":"da","photos":"","vehicle_number":"5555"},
+{"smart_card_id":"13","name":"Eman","mobile_num":"300","natural_num":"300","residence":"tal","address":"Damascus ","photos":"","vehicle_number":"5556"},
+{"smart_card_id":"14","name":"Mahmoud","mobile_num":"5588","natural_num":"54646548","residence":"daraa","address":"alshajarah","photos":"","vehicle_number":"12345"},
+{"smart_card_id":"15","name":"Mahmoud","mobile_num":"200","natural_num":"200","residence":"daraa","address":"alshajarah","photos":"","vehicle_number":"12345"},
+{"smart_card_id":"16","name":"Eman","mobile_num":"555","natural_num":"555","residence":"Damascus ","address":"altal","photos":"","vehicle_number":"123456"},
+{"smart_card_id":"17","name":"C1","mobile_num":"1100","natural_num":"1100","residence":"Damascus ","address":"tt","photos":"","vehicle_number":"121212"}
+]
+}
+]
